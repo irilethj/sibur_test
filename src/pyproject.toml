@@ -3,7 +3,6 @@ name = "service"
 version = "0.1.0"
 description = ""
 authors = ["Bekbolot Saribaev <saribaev93@yandex.ru>"]
-readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
